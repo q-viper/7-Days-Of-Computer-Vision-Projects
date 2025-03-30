@@ -1,6 +1,6 @@
 # 7-Days-Of-Computer-Vision-Projects
 
-The idea of doing CV projects like in this repo was always inside my mind and I made it happen during the 2020 COVID lockdown period. I also made YouTube videos ([#7DaysOfComputerVisionProjects](https://www.youtube.com/playlist?list=PLUqDn7JaCwaTbqegRNfRZmBZSxiTtL8bE)) about these projects and can be found in following list:
+The idea of doing CV projects like in this repo was always inside my mind, and I made it happen during the 2020 COVID lockdown period. I also made YouTube videos ([#7DaysOfComputerVisionProjects](https://www.youtube.com/playlist?list=PLUqDn7JaCwaTbqegRNfRZmBZSxiTtL8bE)) about these projects which can be found in the following list:
 1. **Real-time Background Changing**: [Video](https://www.youtube.com/watch?v=JZ9cIAlCh7c&list=PLUqDn7JaCwaTbqegRNfRZmBZSxiTtL8bE&index=2) | [Blog](https://q-viper.github.io/2021/07/11/real-time-background-changing/) | [Code](https://github.com/q-viper/7-Days-Of-Computer-Vision-Projects/tree/main/1.%20Realtime%20Background%20Changing)
 2. **Air Mouse: Control Mouse with Gestures** [Video](https://www.youtube.com/playlist?list=PLUqDn7JaCwaTbqegRNfRZmBZSxiTtL8bE) | [Blog](https://q-viper.github.io/2021/07/12/air-mouse-control-mouse-with-gestures/) | [Code](https://github.com/q-viper/7-Days-Of-Computer-Vision-Projects/tree/main/2.%20Air%20Mouse)
 3. **Play Trex Game With Gesture** [Video](https://www.youtube.com/watch?v=70VjkDus22g&list=PLUqDn7JaCwaTbqegRNfRZmBZSxiTtL8bE&index=4) | [Blog](https://q-viper.github.io/2021/07/13/playing-chrome-trex-game-with-gestures/) | [Code](https://github.com/q-viper/7-Days-Of-Computer-Vision-Projects/tree/main/3.%204.%20Trex%20Game)
@@ -9,4 +9,4 @@ The idea of doing CV projects like in this repo was always inside my mind and I 
 6. **Game: Kill The Fly** [Video](https://www.youtube.com/playlist?list=PLUqDn7JaCwaTbqegRNfRZmBZSxiTtL8bE) | [Blog](https://q-viper.github.io/2021/07/16/game-kill-a-fly/) | [Code](https://github.com/q-viper/7-Days-Of-Computer-Vision-Projects/tree/main/6.%20Game%20Kill%20a%20Fly)
 7. **Gesture Based Calculator** [Video](https://www.youtube.com/playlist?list=PLUqDn7JaCwaTbqegRNfRZmBZSxiTtL8bE) | [Blog](https://q-viper.github.io/2021/07/17/gesture-based-calculator/) | [Code](https://github.com/q-viper/7-Days-Of-Computer-Vision-Projects/tree/main/7.%20Gesture%20Based%20Calculator)
 
-If you find any issues in these projects please submit an issue.
+If you find any issues in these projects, please submit an issue.
