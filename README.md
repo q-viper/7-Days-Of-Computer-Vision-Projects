@@ -1,6 +1,6 @@
 # 7-Days-Of-Computer-Vision-Projects
 
-The idea of doing CV projects like in this repo was always inside my mind, and I made it happen during the 2020 COVID lockdown period. I also made YouTube videos ([#7DaysOfComputerVisionProjects](https://www.youtube.com/playlist?list=PLUqDn7JaCwaTbqegRNfRZmBZSxiTtL8bE)) about these projects which can be found in the following list:
+The idea of doing CV projects like in this repo was always inside my mind, and I made it happen during the 2020 COVID lockdown period. I also made YouTube videos ([#7DaysOfComputerVisionProjects](https://www.youtube.com/playlist?list=PLUqDn7JaCwaTbqegRNfRZmBZSxiTtL8bE)) about these projects which can be found in the following list (please click on the screenshot to play the video.):
 
 0. **Intro**  
    [![Demo Video](https://img.youtube.com/vi/oazo9SM2JfA/0.jpg)](https://youtu.be/oazo9SM2JfA)
